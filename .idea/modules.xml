@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1529439347/android_acm_serial.iml" filepath="$PROJECT_DIR$/.idea/modules/-1529439347/android_acm_serial.iml" group="android_core-kinetic/android_acm_serial" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-356066693/android_benchmarks.iml" filepath="$PROJECT_DIR$/.idea/modules/-356066693/android_benchmarks.iml" group="android_core-kinetic/android_benchmarks" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1830830234/android_core-kinetic.iml" filepath="$PROJECT_DIR$/.idea/modules/1830830234/android_core-kinetic.iml" group="android_core-kinetic" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android_core_components.iml" filepath="$PROJECT_DIR$/.idea/modules/android_core_components.iml" group="android_core-kinetic/android_core_components" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/368659169/android_tutorial_camera.iml" filepath="$PROJECT_DIR$/.idea/modules/368659169/android_tutorial_camera.iml" group="android_core-kinetic/android_tutorial_camera" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-624799479/android_tutorial_image_transport.iml" filepath="$PROJECT_DIR$/.idea/modules/-624799479/android_tutorial_image_transport.iml" group="android_core-kinetic/android_tutorial_image_transport" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/490165265/android_tutorial_map_viewer.iml" filepath="$PROJECT_DIR$/.idea/modules/490165265/android_tutorial_map_viewer.iml" group="android_core-kinetic/android_tutorial_map_viewer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/758994399/android_tutorial_pubsub.iml" filepath="$PROJECT_DIR$/.idea/modules/758994399/android_tutorial_pubsub.iml" group="android_core-kinetic/android_tutorial_pubsub" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/859018951/android_tutorial_teleop.iml" filepath="$PROJECT_DIR$/.idea/modules/859018951/android_tutorial_teleop.iml" group="android_core-kinetic/android_tutorial_teleop" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/110592656/docs.iml" filepath="$PROJECT_DIR$/.idea/modules/110592656/docs.iml" group="android_core-kinetic/docs" />
+    </modules>
+  </component>
+</project>
